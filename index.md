@@ -72,17 +72,20 @@ La clínica del futuro no será un edificio: será una plataforma digital centra
 
 ## 📅 6. Roadmap tecnológico
 
-**2025**
+**2025-2026**
 - Plataforma VitalExtension MVP global.
+- Optimización de motores de crecimientos de negocio
+  
+**2027-2028**
 - Primeras cohortes con seguimiento multi-ómico longitudinal.
 - IA v1 para interpretación de biomarcadores de envejecimiento.
 
-**2026-2027**
+**2029-2030**
 - Beta de VitalTwin integrada en entorno clínico.
 - IA de intervención personalizada.
 - Protocolos de optimización hormonal, nutricional y cronobiológica basados en gemelo digital.
 
-**2028-2030**
+**2031-2032**
 - Integración con tecnologías de reprogramación celular (factores de Yamanaka, epigenética reversiva).
 - Escalado de VitalTwin como herramienta clínica global.
 - Modelo API para integradores externos y aseguradoras.
